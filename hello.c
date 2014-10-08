@@ -1,8 +1,8 @@
 #include <stdlib.h>
 
 
-void main(char** args){
+void main(){
 
-    printf("wrong output\n");
+    printf("hello world");
     return;
 }
